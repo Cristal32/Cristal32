@@ -1,10 +1,22 @@
-# Hi there, I'm Meryem El Karati !
+<p align="center">
+  <a href="https://github.com/Cristal32">
+    <img src="https://github.com/Cristal32/Cristal32/assets/114748477/7e9404e4-fba7-4bf3-ae79-9b9ff50b60a0" alt="Meryem El Karati" /></a>
+</p>
+
+
+# Welcome to Meryem El Karati's profile !
 
 **``Software engineer | Passionate about research | knowledge enthusiast``**
 
 ---
 
-### Languages and tools
+### 🌐 Socials
+
+
+
+---
+
+### 💻 Languages and tools
 
 #### Languages
 
