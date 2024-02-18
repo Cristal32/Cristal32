@@ -11,7 +11,9 @@
 ---
 
 ### 🌐 Socials
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/meryem-el-karati/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+</p>
 
 
 ---
