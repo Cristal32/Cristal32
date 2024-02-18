@@ -11,9 +11,7 @@
 ---
 
 ### 🌐 Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/meryem-el-karati/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/khaouitiabdelhakim](https://www.linkedin.com/in/meryem-el-karati/))
 
 
 ---
