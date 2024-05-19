@@ -8,7 +8,7 @@
   <dev style="color: #19c246">🍀Welcome to my profile!🍀</dev>
 </p>
 
-**``Software engineer | Interested in research | Knowledge enthusiast``**
+**``Software engineer | Interested in research | Learning enthusiast``**
 
 ---
 
