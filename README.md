@@ -9,7 +9,7 @@
 
 **``Software engineer | Interested in research | Learning enthusiast``**
 
-![](https://github-trophies.vercel.app/?username=Cristal32)
+<!--![](https://github-trophies.vercel.app/?username=Cristal32)-->
 
 ---
 
