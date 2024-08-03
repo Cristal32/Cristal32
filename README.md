@@ -3,12 +3,13 @@
     <img src="https://github.com/Cristal32/Cristal32/assets/114748477/7e9404e4-fba7-4bf3-ae79-9b9ff50b60a0" alt="Meryem El Karati" width="300px" /></a>
 </p>
 
-
 <p>
   <dev style="color: #19c246">🍀Welcome to my profile!🍀</dev>
 </p>
 
 **``Software engineer | Interested in research | Learning enthusiast``**
+
+![](https://github-trophies.vercel.app/?username=Cristal32)
 
 ---
 
@@ -72,8 +73,13 @@
 <img align="left" alt="SQLserver" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 <img align="left" alt="Firebase" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
 
-<br/>
+<br><br>
 
+---
 
+### 📊 Github stats
 
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Cristal32)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cristal32&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristal32&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
           
