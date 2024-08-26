@@ -37,8 +37,6 @@
 ![RabbitMq](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat&logo=rabbitmq&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2.svg?style=flat&logo=android-studio&logoColor=3DDC84)
-![VSCode](https://img.shields.io/badge/VSCode-2F80ED.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat&logo=eclipse-ide&logoColor=F7941E)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-4D4D4D.svg?style=flat&logo=jupyter&logoColor=F37626)
 
 #### Frameworks and libraries
