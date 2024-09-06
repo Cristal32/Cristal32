@@ -77,5 +77,3 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/Cristal32/Cristal32/output/snake.svg" alt="Snake animation" />
-
-<img src="https://camo.githubusercontent.com/5ad6679a100599b10c6833c4c4eb5e7128b58e66a1f95f77fb87bfc791b4dd24/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="25" height="25" alt="Parrot dancing" align="right" />
