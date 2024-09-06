@@ -6,7 +6,7 @@
 **``Software engineer | Interested in research | Learning enthusiast``**
 
 <picture>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="75">
+    <img width="80%" src="https://github.com/user-attachments/assets/016ba8e6-2a7e-4cb9-859e-b67e8f3b7fb9" />
 </picture>
 
 </div>
@@ -80,3 +80,7 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/Cristal32/Cristal32/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="75" />
+</p>
