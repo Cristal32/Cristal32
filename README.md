@@ -79,7 +79,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristal32&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Cristal32's Top Languages" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Cristal32/Cristal32/output/snake.svg" alt="Snake animation" />
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Cristal32/Cristal32/output/snake.svg" alt="Snake animation" />
+</p>
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <p align="center">
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="75" />
