@@ -1,12 +1,15 @@
 <div align="center">
     <img src="https://github.com/Cristal32/Cristal32/assets/114748477/7e9404e4-fba7-4bf3-ae79-9b9ff50b60a0" alt="Meryem El Karati" width="300px" />
-  
-  **``Software engineer | Interested in research | Learning enthusiast``**
-</div>
+
+<br>
+
+**``Software engineer | Interested in research | Learning enthusiast``**
 
 <picture>
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="75">
 </picture>
+
+</div>
 
 <!--![](https://github-trophies.vercel.app/?username=Cristal32)-->
 
