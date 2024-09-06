@@ -76,4 +76,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristal32&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Cristal32's Top Languages" />
 </p>
 
-![snake gif](https://github.com/Cristal32/Cristal32/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/Cristal32/Cristal32/output/snake.svg" alt="Snake animation" />
