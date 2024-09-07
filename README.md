@@ -11,8 +11,6 @@
 
 </div>
 
-<!--![](https://github-trophies.vercel.app/?username=Cristal32)-->
-
 ---
 
 ### 💻 Languages and tools
@@ -77,6 +75,10 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Cristal32" alt="Cristal32's GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristal32&theme=default&hide_border=false" alt="Cristal32's GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristal32&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Cristal32's Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-trophies.vercel.app/?username=Cristal32" alt="Achievement Trophies" />
 </p>
 
 <p align="center">
