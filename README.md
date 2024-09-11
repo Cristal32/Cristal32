@@ -1,10 +1,18 @@
+<!-- Title -->
 <div align="center">
-    <img src="https://github.com/Cristal32/Cristal32/assets/114748477/7e9404e4-fba7-4bf3-ae79-9b9ff50b60a0" alt="Meryem El Karati" width="300px" />
-
-<br/>
+    <h1 align="center"> 
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Handjet&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Meryem+El+Karati!;&color=67e0a8" />
+    </h1>
+    <!--<img src="https://github.com/Cristal32/Cristal32/assets/114748477/7e9404e4-fba7-4bf3-ae79-9b9ff50b60a0" alt="Meryem El Karati" width="300px" />-->
 
 **``Software engineer | Interested in research | Learning enthusiast``**
 
+<!-- Profile views -->
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=Cristal32&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
+
+<!-- Background picture -->
 <picture>
     <img width="80%" src="https://github.com/user-attachments/assets/016ba8e6-2a7e-4cb9-859e-b67e8f3b7fb9" />
 </picture>
@@ -72,7 +80,7 @@
 ### 📊 Github stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Cristal32" alt="Cristal32's GitHub Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristal32" alt="Cristal32's GitHub Stats" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristal32&theme=default&hide_border=false" alt="Cristal32's GitHub Streak" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristal32&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Cristal32's Top Languages" />
 </p>
