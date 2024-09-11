@@ -55,6 +55,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-005C99.svg?style=flat&logo=scikit-learn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-55A868.svg?style=flat&logo=matplotlib&logoColor=4C72B0)
+![Seaborn](https://img.shields.io/badge/Seaborn-white.svg?style=flat&logo=seaborn&logoColor=11557C)
 
 #### Environments & Testing
 
