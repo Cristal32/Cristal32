@@ -56,7 +56,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-005C99.svg?style=flat&logo=scikit-learn&logoColor=F7931E)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white.svg?style=flat&logo=matplotlib&logoColor=11557C)
-![Seaborn](https://img.shields.io/badge/Seaborn-55A868.svg?style=flat&logo=seaborn&logoColor=4C72B0)
+![Seaborn](https://img.shields.io/badge/Seaborn-64B5CD.svg?style=flat&logo=seaborn&logoColor=4C72B0)
 
 #### Environments & Testing
 
