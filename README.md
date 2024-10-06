@@ -92,6 +92,7 @@
     <img src="https://github-trophies.vercel.app/?username=Cristal32" alt="Achievement Trophies" />
 </p>
 
+<!-- Snake animation -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/Cristal32/Cristal32/output/snake.svg" alt="Snake animation" />
 </p>
