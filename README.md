@@ -46,7 +46,8 @@
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React.js](https://img.shields.io/badge/React.js-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=flat&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
@@ -76,6 +77,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000.svg?style=flat&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-737373.svg?style=flat&logo=sql-server&logoColor=A91D22)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=flat&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-%2320232a.svg?style=flat&logo=supabase&logoColor=3FCF8E)
 
 ---
 
