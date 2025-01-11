@@ -63,6 +63,7 @@
 
 ![NodeJS](https://img.shields.io/badge/NodeJS-333333.svg?style=flat&logo=node.js&logoColor=5FA04E)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?style=flat&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=flat&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Virtual Box](https://img.shields.io/badge/Virtual%20Box-183A61.svg?style=flat&logo=virtualbox&logoColor=white)
