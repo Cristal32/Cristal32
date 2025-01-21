@@ -38,7 +38,6 @@
 
 #### Tools and softwares
 
-![Apache](https://img.shields.io/badge/Apache-D22128.svg?style=flat&logo=apache&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2.svg?style=flat&logo=android-studio&logoColor=3DDC84)
 
